@@ -91,6 +91,22 @@
         background-color: $color-primario
         div
           color: textColor($color-primario)
+  &.color-amarillo
+    .pasos-a
+      &__numero
+        &::after
+          border-left-color: #FFCE73
+      &__linea
+        .hor-line
+          border-top-color: #FFCE73
+
+        &__esquina
+          &__linea
+            border-color: #FFCE73
+      &__circle
+        background-color: #FFCE73
+        div
+          color: textColor(#FFCE73)
   &.color-secundario
     .pasos-a
       &__numero
