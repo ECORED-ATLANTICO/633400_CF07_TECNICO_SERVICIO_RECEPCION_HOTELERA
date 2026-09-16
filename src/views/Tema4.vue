@@ -45,8 +45,8 @@
               p.mb-4.mb-lg-0 Se invita a descargar y leer el Manual de Buenas Prácticas para la Prevención de la ESCNNA en Viajes y Turismo, disponible como anexo en el material complementario.
             .col-lg-3
               a.boton.color-acento-botones.my-2(:href="obtenerLink('/downloads/Anexo2_CF07_ESCNNA.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
+                span Ir al recurso
+                
     p Es deber del recepcionista conocer esta normativa y, en caso de identificar situaciones de riesgo o presuntos casos de ESCNNA, actuar de manera inmediata a través de los siguientes canales:
 
     .row.mb-5.justify-content-center.align-items-stretch.z-2

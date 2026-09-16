@@ -223,8 +223,8 @@
                 p.mb-0.text-center.text-lg-start A continuación, se expone un ejemplo de perfil para el cargo de recepcionista.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones.my-2(:href="obtenerLink('/downloads/Anexo1_CF07_Perfil_cargo_recepcionista.pdf')" target="_blank")
-                  span Descargar
-                  i.fas.fa-file-download
+                  span Ir al recurso
+                  
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4
       h5.mb-0 Relaciones con otros departamentos del hotel

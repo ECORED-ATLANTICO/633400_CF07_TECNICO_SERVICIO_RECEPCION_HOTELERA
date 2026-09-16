@@ -78,8 +78,8 @@
                 p.mb-0.text-center.text-lg-start Ejemplo actividades para recibir y entregar turno.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones.my-2(:href="obtenerLink('/downloads/Anexo3_CF07_8_Actividades_para_recibir_y_entregar_turno.pdf')" target="_blank")
-                  span Descargar
-                  i.fas.fa-file-download
+                  span Ir al recurso
+                  
 </template>
 
 <script>
