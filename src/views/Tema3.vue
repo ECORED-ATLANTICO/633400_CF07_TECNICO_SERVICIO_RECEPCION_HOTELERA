@@ -193,7 +193,7 @@
           h5 Figura 2.
           span Reporte de habitaciones
         img.mb-2(data-aos="fade-up", src="@/assets/curso/tema3/15.png", alt="Reporte de estado de habitaciones del sistema eZee que presenta un listado de números de habitación organizados por categorías como habitaciones ocupadas, suspendidas y disponibles, permitiendo visualizar la ocupación del hotel.")
-        figcaption Nota. Tomada de #[em EzeeFrontDesk] (s.f)    
+        figcaption Nota. Tomada de EzeeFrontDesk (s.f)    
 
     Separador 
 
