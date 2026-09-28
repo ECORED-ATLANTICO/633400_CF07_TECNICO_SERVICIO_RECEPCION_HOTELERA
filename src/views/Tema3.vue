@@ -143,7 +143,7 @@
           h5 Figura 1.
           span #[em Rack] de ocupación
         img.mb-2(data-aos="fade-up", src="@/assets/curso/tema3/8.png", alt="Panel digital de rack de ocupación en un sistema de gestión hotelera (PMS), que muestra la disponibilidad y estado de las habitaciones mediante un calendario y códigos de colores que indican habitaciones ocupadas, reservadas, disponibles o en mantenimiento.")
-        figcaption Nota. Tomada de #[em EzeeFrontDesk] (s.f)
+        figcaption Nota. Tomada de EzeeFrontDesk (s.f)
 
     .p-4.rounded-4.bg-acento-contenido-a5.mb-4.mb-lg-5
       p.mb-0 También se puede generar el “Reporte de estado de habitaciones”, el cual muestra la disponibilidad de habitaciones:
