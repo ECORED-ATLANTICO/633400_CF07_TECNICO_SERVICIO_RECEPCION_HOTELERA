@@ -243,7 +243,7 @@
         p Las solicitudes de información, a menudo, comienzan con el botones, el operador telefónico, el empleado de recepción, cajero o conserje, porque estos empleados son los más visibles para el huésped y se perciben como los más conocedores; estos son quienes toman el pulso de la organización y la comunidad. 
         .p-4.rounded-4.bg-secundario-s5.mb-3
           p.mb-0 Sus respuestas a las solicitudes de información de los huéspedes sobre el transporte público, ubicación de las instalaciones del hotel, eventos especiales en la comunidad, y otro sinnúmero de preguntas, indican lo bien que el hotel los ha preparado para este importante papel.
-        p.mb-4.mb-lg-0 Los gerentes de recepción deben participar activamente en la recopilación de información de interés para los huéspedes. También deben estar activos en el desarrollo de procedimientos para que el área de recepción comunique esta información efectivamente. Las relaciones que el gerente de recepción desarrolla con los otros directores de departamento y sus empleados son vitales para recopilar esta información. (Bardi, 2011).
+        p.mb-4.mb-lg-0 Los gerentes de recepción deben participar activamente en la recopilación de información de interés para los huéspedes. También deben estar activos en el desarrollo de procedimientos para que el área de recepción comunique esta información efectivamente. Las relaciones que el gerente de recepción desarrolla con los otros directores de departamento y sus empleados son vitales para recopilar esta información (Bardi, 2011).
       .col-sm-10.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/17.png", alt="")

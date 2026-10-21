@@ -221,7 +221,7 @@ export default {
         },
         {
           id: 7,
-          texto: 'Un huésped walk-in es aquel que:',
+          texto: 'Un huésped <em>walk-in</em> es aquel que:',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

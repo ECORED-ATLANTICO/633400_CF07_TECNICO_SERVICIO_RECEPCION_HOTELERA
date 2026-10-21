@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-12.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Diagrama tipo mapa conceptual del componente formativo “Front office: check-in”. Desde el tema central se desprenden siete categorías: huésped, recepción hotelera, registro de huéspedes, tipos de check-in, normativa, protocolos internos y gestión operativa. Cada categoría incluye palabras clave: tipos y frecuencia; personal, funciones y relación con áreas; reserva, disponibilidad, ocupación, TRA, llaves y procedimiento técnico; individual, grupos, extranjeros, VIP y auto check-in; NTSH 003, Ley 300, Ley 2068, ESCNNA y SIRE; uniforme, presentación, trato y uso de áreas; y reportes, entrega de turno y bitácora.")
+          img(src="@/assets/curso/sintesis.svg", alt="El componente formativo Front office: check-in, integra el registro de huéspedes y comprende la identificación y atención de diferentes perfiles de clientes, los procedimientos de check-in, el cumplimiento de la normativa hotelera, la aplicación de protocolos internos y la gestión de reportes, bitácoras y entrega de turno para garantizar un servicio seguro, eficiente y de calidad.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

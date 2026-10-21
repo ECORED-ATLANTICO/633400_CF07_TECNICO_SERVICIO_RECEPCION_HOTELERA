@@ -147,7 +147,7 @@
             .col-lg-7.col-xl-6.mb-4.mb-lg-0
               h4 Huésped permanente
               p En una escala superior en términos de frecuencia, están los huéspedes permanentes.
-              p Estos son personas que por su labor o por alguna circunstancia específica escogen vivir en el hotel. Aquí las estadías superan los 30 días continuos, alcanzando varios meses o hasta años.
+              p Estas son personas que por su labor o por alguna circunstancia específica escogen vivir en el hotel. Aquí las estadías superan los 30 días continuos, alcanzando varios meses o hasta años.
               p.mb-0 Debido a la extensión de estas estadías, estos clientes tienen tratos preferentes en términos de tarifa y desean ser tratados como el huésped predilecto del hotel, no en vano el hotel es su hogar. 
             .col-lg-5.col-xl-4
               figure

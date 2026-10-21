@@ -143,7 +143,7 @@
           h5 Figura 1.
           span #[em Rack] de ocupación
         img.mb-2(data-aos="fade-up", src="@/assets/curso/tema3/8.png", alt="Panel digital de rack de ocupación en un sistema de gestión hotelera (PMS), que muestra la disponibilidad y estado de las habitaciones mediante un calendario y códigos de colores que indican habitaciones ocupadas, reservadas, disponibles o en mantenimiento.")
-        figcaption Nota. Tomada de EzeeFrontDesk (s.f)
+        figcaption Nota. Tomada de EzeeFrontDesk (s. f.) 
 
     .p-4.rounded-4.bg-acento-contenido-a5.mb-4.mb-lg-5
       p.mb-0 También se puede generar el “Reporte de estado de habitaciones”, el cual muestra la disponibilidad de habitaciones:
@@ -236,7 +236,7 @@
               ul.lista-ul--color.pe-4.m-0
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cuantos huéspedes se encuentran en el hotel.
+                  | Cuántos huéspedes se encuentran en el hotel.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
                   | Procedencia de las reservas.
@@ -525,7 +525,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8.col-xl-7.mb-4.mb-lg-0
             h4 Agencias de viaje
-            p.mb-0 Establecen acuerdos con los hoteles y disponen de tarifas especiales que usualmente incluyen el desayuno. La agencia se hace cargo mediante bonos o vouchers que entrega a los clientes para ser presentados en el hotel; a su salida, el huésped deberá pagar directamente los gastos extras o los servicios no incluidos en el acuerdo con la agencia. En el listado de llegadas debe reflejarse esta información con el fin de que el bono sea solicitado al cliente y no se le realice cargo directo a su cuenta, teniendo además claridad sobre qué servicios contrató el huésped a través de la agencia.
+            p.mb-0 Establecen acuerdos con los hoteles y disponen de tarifas especiales que usualmente incluyen el desayuno. La agencia se hace cargo mediante bonos o <em>vouchers</em> que entrega a los clientes para ser presentados en el hotel; a su salida, el huésped deberá pagar directamente los gastos extras o los servicios no incluidos en el acuerdo con la agencia. En el listado de llegadas debe reflejarse esta información con el fin de que el bono sea solicitado al cliente y no se le realice cargo directo a su cuenta, teniendo además claridad sobre qué servicios contrató el huésped a través de la agencia.
             p Para todos los casos de registro individual se debe tener en cuenta:
 
             p.mb-0 1. El registro debe llevar firma del huésped.
@@ -725,9 +725,6 @@
                   span Abrir Video
                   i.fas.fa-file-video
 
-    .p-4.rounded-4.bg-secundario-s10.mb-4.mb-lg-5
-      p.mb-0.text-center Pódcast: asimismo, para reforzar el procedimiento técnico del #[em check-in] trabajado en este componente, se recomienda escuchar el siguiente recurso de audio: el #[em check-in] paso a paso: más allá del trámite, una experiencia de servicio.
-
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-5.d-none.d-lg-block
         figure
@@ -739,7 +736,7 @@
               img.w-155(src="@/assets/curso/tema3/mic.png", alt="alt")
           .col-sm-8.col-lg-8
             h5 ¿Sabías que?
-            p Asimismo, para reforzar el procedimiento técnico del check-in trabajado en este componente, se recomienda escuchar el siguiente recurso de audio:
+            p Asimismo, para reforzar el procedimiento técnico del <em>check-in</em> trabajado en este componente, se recomienda escuchar el siguiente recurso de audio:
             TarjetaAudio.color-terciario.mb-3(
               texto="El <em>check-in</em> paso a paso: más allá del trámite, una experiencia de servicio."
               :audio="require('@/assets/audio/El-check-in-paso-a-paso-mas-alla-del-tramite-una-experiencia-de-servicio.mp3')"
